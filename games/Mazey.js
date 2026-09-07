@@ -1,9 +1,9 @@
 /*
 @title: Mazey
-@author: Kartik Biddolya
-@description: Its a maze
-@tags: ["maze"]
-@addedOn: 2026-05-15
+@author: Kartik Biddoliya
+@description: Just some maze, try to escape.
+@tags: ['maze']
+@addedOn: 2026-09-07
 */
 
 const player = "p";
