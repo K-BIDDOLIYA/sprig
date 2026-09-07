@@ -282,6 +282,7 @@ onInput("s", () => { getFirst(player).y += 1 })
 onInput("d", () => { getFirst(player).x += 1 })
 onInput("a", () => { getFirst(player).x -= 1 })
 onInput("w", () => { getFirst(player).y -= 1 })
+onInput("j", () => { setMap(levels[count = 0]) })
 
 afterInput(() => {
   // Check if player is on the same tile as a goal
